@@ -1,6 +1,6 @@
 <h1 align="center"> Hi, I'm Md Ali Mujtaba</h1>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=mdalimujtaba&label=Views&color=blue&style=plastic&style=for-the-badge" alt="iampawan" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=mdalimujtaba&label=Views&color=blue&style=plastic&style=for-the-badge" alt="alimujtaba" /> </p>
 
 # About Me:
 
