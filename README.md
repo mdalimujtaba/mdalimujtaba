@@ -79,7 +79,10 @@ Here are some ideas to get you started:
 
 
 
-<a href="https://github.com/mdalimujtaba/github-readme-activity-graph"><img alt="mdalimujtaba's Activity Graph" src="https://denvercoder1-activity-graph.herokuapp.com/graph/?username=mdalimujtaba&bg_color=1F222E&color=F8D866&line=F85D7F&point=FFFFFF&hide_border=true" /></a>
+<a href="https://github.com/mdalimujtaba/github-readme-activity-graph"></a>
+<!--
+<img  src="https://denvercoder1-activity-graph.herokuapp.com/graph/?username=mdalimujtaba&bg_color=1F222E&color=F8D866&line=F85D7F&point=FFFFFF&hide_border=true" />
+-->
 
 
 
