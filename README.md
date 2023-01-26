@@ -100,8 +100,8 @@ Here are some ideas to get you started:
   
   <table><tr><td valign="top" width="50%">
   
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=mdalimujtaba&theme=dark&background=000000)](https://git.io/streak-stats)
-
+<!--[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=mdalimujtaba&theme=dark&background=000000)](https://git.io/streak-stats)-->
+[![GitHub Streak](https://streak-stats.demolab.com/?user=mdalimujtaba&theme=dark&background=000000)](https://git.io/streak-stats)
 </td><td valign="top" width="50%">
 
 
