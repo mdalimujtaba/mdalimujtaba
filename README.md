@@ -2,7 +2,7 @@
 <h4 align="center">Full Stack Web Developer or MERN Developer with
 good coding ability. Passionate, motivated and hardworking developer seeking an opportunity to work in a challenging environment to prove my skills and utilize my knowledge & intelligence to upskill myself.</h4>
 
-<p align="left">![](https://komarev.com/ghpvc/?username=mdalimujtaba&color=green) </p>
+<p align="left"><img href="https://komarev.com/ghpvc/?username=mdalimujtaba&color=green"/> </p>
 
 # About Me:
 
