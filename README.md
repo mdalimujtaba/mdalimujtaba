@@ -2,7 +2,7 @@
 <h4 align="center">Full Stack Web Developer or MERN Developer with
 good coding ability. Passionate, motivated and hardworking developer seeking an opportunity to work in a challenging environment to prove my skills and utilize my knowledge & intelligence to upskill myself.</h4>
 
-<p align="left"><img href="https://komarev.com/ghpvc/?username=mdalimujtaba&color=green"/> </p>
+<p align="left"><img src="https://komarev.com/ghpvc/?username=mdalimujtaba&color=green" alt="mdalimujtaba" /> </p>
 
 # About Me:
 
@@ -65,14 +65,11 @@ Here are some ideas to get you started:
 
 ---
 <!--Graph-->
-<!--
- <p align="center"> <img src="https://komarev.com/ghpvc/?username=mdalimujtaba&label=Profile%20views&color=0e75b6&style=flat" alt="mdalimujtaba" /> </p>
 
--->
 
 <p align="center">
     <a href="https://github.com/mdalimujtaba">
-        <img src="https://komarev.com/ghpvc/?username=mdalimujtaba&label=Profile%20views&color=0e75b6&style=flat" alt="mdalimujtaba" />
+        <img src="https://komarev.com/ghpvc/?username=mdalimujtaba&color=green" alt="mdalimujtaba"/>
     </a>
     <a href="https://github.com/mdalimujtaba?tab=followers">
         <img src="https://img.shields.io/github/followers/mdalimujtaba?label=Followers&style=social" alt="followers-count">
